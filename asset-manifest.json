@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Bquanganh/Movie.git/static/css/main.334bdeb1.css",
-    "main.js": "/Bquanganh/Movie.git/static/js/main.11ec394e.js",
-    "static/media/search.svg": "/Bquanganh/Movie.git/static/media/search.2038aac11684ac436897451eeb95d465.svg",
-    "index.html": "/Bquanganh/Movie.git/index.html",
-    "main.334bdeb1.css.map": "/Bquanganh/Movie.git/static/css/main.334bdeb1.css.map",
-    "main.11ec394e.js.map": "/Bquanganh/Movie.git/static/js/main.11ec394e.js.map"
+    "main.css": "/Bquanganh/Movie/static/css/main.334bdeb1.css",
+    "main.js": "/Bquanganh/Movie/static/js/main.94a66fc0.js",
+    "static/media/search.svg": "/Bquanganh/Movie/static/media/search.2038aac11684ac436897451eeb95d465.svg",
+    "index.html": "/Bquanganh/Movie/index.html",
+    "main.334bdeb1.css.map": "/Bquanganh/Movie/static/css/main.334bdeb1.css.map",
+    "main.94a66fc0.js.map": "/Bquanganh/Movie/static/js/main.94a66fc0.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.11ec394e.js"
+    "static/js/main.94a66fc0.js"
   ]
 }
