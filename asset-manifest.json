@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bquanganh/Movie.git/static/css/main.334bdeb1.css",
+    "main.js": "/Bquanganh/Movie.git/static/js/main.11ec394e.js",
+    "static/media/search.svg": "/Bquanganh/Movie.git/static/media/search.2038aac11684ac436897451eeb95d465.svg",
+    "index.html": "/Bquanganh/Movie.git/index.html",
+    "main.334bdeb1.css.map": "/Bquanganh/Movie.git/static/css/main.334bdeb1.css.map",
+    "main.11ec394e.js.map": "/Bquanganh/Movie.git/static/js/main.11ec394e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.11ec394e.js"
+  ]
+}
